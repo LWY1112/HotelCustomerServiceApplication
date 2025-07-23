@@ -1,4 +1,3 @@
-🎉 Great job — now that your project is successfully pushed to GitHub, here is a **clean, professional README.md** you can just copy and paste into your repo.
 
 ---
 
